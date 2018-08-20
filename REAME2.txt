@@ -1,1 +1,2 @@
 Hello world from cmd
+hello, here testing from console 
