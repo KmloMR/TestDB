@@ -1,2 +1,3 @@
 this is my second file 
 modifing secondFile from conslole 
+editing from cmd 
